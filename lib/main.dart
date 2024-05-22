@@ -38,14 +38,14 @@ import 'package:flutter/material.dart';
             padding: const EdgeInsets.all(16.0),
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
-          children: [Text("Sakrul", style: TextStyle(fontSize: 16)), 
+          children: [Text("Ragatona Besly", style: TextStyle(fontSize: 16)), 
           SizedBox(height: 20,),
           Container(
             width: 400,
             decoration: BoxDecoration(color: Colors.blue[800]), 
             child: Padding(
               padding: const EdgeInsets.all(16.0),
-              child: Column(children: [ Text("Kamis, 16 Mei 2024", style: TextStyle(color: Colors.white, fontSize: 24),), 
+              child: Column(children: [ Text("Rabu, 22 Mei 2024", style: TextStyle(color: Colors.white, fontSize: 24),), 
               SizedBox(height: 30,),
               Row(
                 mainAxisAlignment: MainAxisAlignment.spaceAround,

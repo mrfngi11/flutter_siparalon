@@ -38,7 +38,7 @@ import 'package:flutter/material.dart';
             padding: const EdgeInsets.all(16.0),
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
-          children: [Text("Muhamad Rifangi", style: TextStyle(fontSize: 16)), 
+          children: [Text("Sakrul", style: TextStyle(fontSize: 16)), 
           SizedBox(height: 20,),
           Container(
             width: 400,
